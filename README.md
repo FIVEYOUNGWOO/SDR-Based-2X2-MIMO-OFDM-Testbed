@@ -4,6 +4,8 @@ A 2X2 MIMO OFDM transmitter and receiver, based on software-defined radio (SDR),
 
 To acquire consecutive channel state information (CSI) data, the testbed code incorporates simple least squares (LS) channel estimation and OFDM preamble methods.
 
+The real-time testbed demonstration was uploaded to the YouTube channel: [URL Link]
+
 ## Requirements
 - (HW) NI-USRP2932
 - (HW) NETGEAR switch hub
