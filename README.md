@@ -7,5 +7,6 @@ To acquire consecutive channel state information (CSI) data, the testbed code in
 ## Requirements
 - (HW) NI-USRP2932
 - (HW) NETGEAR switch hub
+- (HW) MIMO expansion cable
 - (HW) Ethernet cat5 cable
 - (SW) Labview 2020
